@@ -1,4 +1,4 @@
-package com.example.kotlin1.ui.detail
+package com.example.kotlin1.ui.fragments.books.detail
 
 import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.lifecycleScope
@@ -6,7 +6,7 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.example.kotlin1.R
 import com.example.kotlin1.databinding.FragmentBooksDetailsBinding
 import com.example.kotlin1.ui.base.BaseFragment
-import com.example.kotlin1.ui.fragments.SharedViewModel
+import com.example.kotlin1.ui.fragments.books.SharedViewModel
 
 import kotlinx.coroutines.launch
 

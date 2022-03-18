@@ -1,4 +1,4 @@
-package com.example.kotlin1.ui.fragments
+package com.example.kotlin1.ui.fragments.books
 
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
